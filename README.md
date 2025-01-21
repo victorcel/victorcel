@@ -32,22 +32,18 @@
 - **Logros**:  
   - Optimización del rendimiento en la gestión de datos.  
   - Automatización de procesos manuales con contenedores Docker.  
-- **Repositorio**: [Ver proyecto](https://github.com/victorcel/transcaribe-automation)
 
 ### 2. **Plugin NLP para Rasa**
 - **Descripción**: Desarrollo e integración de un plugin de procesamiento de lenguaje natural con **Golang** y microservicios en **gRPC**.  
 - **Tecnologías**: Golang, AWS (Lambda, SQS), MongoDB, ElasticSearch.  
-- **Repositorio**: [Ver proyecto](https://github.com/victorcel/plugin-nlp-rasa)
 
 ### 3. **Reserva de playas - Alcaldía de Cartagena**
 - **Descripción**: Aplicación web y móvil para la gestión de reservas de playas. Incluye arquitectura de sistema y modelado de base de datos.  
 - **Tecnologías**: PHP (Laravel), Flutter, Python.  
-- **Repositorio**: [Ver proyecto](https://github.com/victorcel/reserva-playas)
 
 ### 4. **Refactorización Backend - Merqueo**
 - **Descripción**: Implementación de principios SOLID y Clean Code en sistemas backend con optimización de microservicios y pruebas unitarias.  
 - **Tecnologías**: Golang, PHP (Laravel), AWS (S3, DynamoDB).  
-- **Repositorio**: [Ver proyecto](https://github.com/victorcel/refactorizacion-merqueo)
 
 ---
 
