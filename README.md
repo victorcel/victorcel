@@ -2,7 +2,7 @@
 
 ## 🚀 Desarrollador Backend | +5 años de experiencia
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador backend con experiencia en **Oracle PL/SQL**, **Golang**, **Java** y **PHP**. Me especializo en diseñar soluciones robustas, escalables y eficientes, aplicando principios como **SOLID**, **Clean Code**, y **TDD**, con un enfoque en la integración de software con dispositivos electrónicos y sistemas en la nube.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador backend con experiencia en **Oracle PL/SQL**, **Golang**, **Python**, **Java** y **PHP**. Me especializo en diseñar soluciones robustas, escalables y eficientes, aplicando principios como **SOLID**, **Clean Code**, y **TDD**, con un enfoque en la integración de software con dispositivos electrónicos y sistemas en la nube.
 
 🌍 **Ubicación**: Cartagena, Colombia  
 📧 **Contacto**: [vbarrera@outlook.com](mailto:vbarrera@outlook.com)  
