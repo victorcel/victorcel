@@ -60,7 +60,9 @@
 ## 📊 Estadísticas de GitHub
 
 ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorcel&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorcel&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorcel&layout=compact&theme=radical&langs_count=8)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=victorcel&theme=radical&column=4&margin-w=15&margin-h=15)
 
 ---
 
