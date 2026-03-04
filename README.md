@@ -1,138 +1,243 @@
-# 👋 ¡Hola! Soy Victor Elias Barrera Florez
+<div align="center">
 
-## 🚀 Desarrollador Backend | +5 años de experiencia
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Victor%20Barrera&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20Full-Stack%20Senior%20%7C%20Golang%20%7C%20Sistemas%20con%20IA&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador backend con experiencia en **Oracle PL/SQL**, **Golang**, **Python**, **Java** y **PHP**. Me especializo en diseñar soluciones robustas, escalables y eficientes, aplicando principios como **SOLID**, **Clean Code**, y **TDD**, con un enfoque en la integración de software con dispositivos electrónicos y sistemas en la nube.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Construyendo+sistemas+de+producci%C3%B3n+en+tiempo+real+%F0%9F%8F%AD;Golang+%7C+Cloud-Native+%7C+Backends+potenciados+con+IA;8%2B+a%C3%B1os+dise%C3%B1ando+sistemas+distribuidos+escalables)](https://git.io/typing-svg)
 
-🌍 **Ubicación**: Cartagena, Colombia (UTC-5)  
-📧 **Contacto**: [vbarrera@outlook.com](mailto:vbarrera@outlook.com)  
-🔗 **LinkedIn**: [Victor Elias Barrera Florez](https://www.linkedin.com/in/victor-elias-barrera-florez/)  
-🛠️ **Stack principal**: Golang, Oracle PL/SQL, Python, PHP, Java, AWS, Kubernetes, Docker, MongoDB, PostgreSQL, ElasticSearch  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Barrera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-elias-barrera-florez/)
+[![Email](https://img.shields.io/badge/Email-vbarrera%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vbarrera@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-victorcel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorcel)
+[![Disponible](https://img.shields.io/badge/%F0%9F%8C%8D%20Disponible-Trabajo%20Remoto%20Full--Time-22c55e?style=for-the-badge)](mailto:vbarrera@outlook.com)
+
+</div>
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🧑‍💻 Sobre mí
 
-| Lenguajes            | Frameworks            | Bases de Datos           | Herramientas          |
-|-----------------------|-----------------------|---------------------------|-----------------------|
-| Golang, PHP, Python  | Laravel, FastAPI     | PostgreSQL, MongoDB      | Docker, Kubernetes   |
-| Dart, Java, Oracle PL/SQL | Flask, Spring Boot, Angular | ElasticSearch, DynamoDB  | Git, Swagger, Figma  |
+Ingeniero Full-Stack Senior con **8+ años** construyendo microservicios, sistemas distribuidos y arquitecturas cloud-native listas para producción. Basado en **Cartagena, Colombia 🇨🇴**, trabajando con equipos globales.
+
+- 🔭 Actualmente construyendo **sistemas HUD en tiempo real** y **backends con IA** en Klio Data
+- ⚡ Apasionado por el **rendimiento**, la **observabilidad** y el **código limpio y testeable**
+- 🏆 Historial comprobado: **20% de reducción de latencia** y **30% menos deuda técnica** en sistemas críticos
+- 🎯 Principios de ingeniería: SOLID · Clean Architecture · TDD · Domain-Driven Design
+- 🌍 **Disponible para oportunidades remotas a tiempo completo en todo el mundo**
+
+---
+
+## 🔥 Enfoque 2026
+
+> Habilidades alineadas con lo que las mejores empresas están contratando hoy
+
+| Dominio | Tecnologías |
+|---------|-------------|
+| 🤖 **Integración AI/LLM** | Model Context Protocol (MCP), OpenAI API, Orquestación LLM, Sistemas RAG |
+| 📡 **Arquitectura Orientada a Eventos** | Apache Kafka, AWS SQS/SNS, Event Sourcing, CQRS |
+| 🔍 **Observabilidad** | OpenTelemetry, Trazado Distribuido, Prometheus, Grafana |
+| 🏗️ **Platform Engineering** | Plataformas Internas de Desarrollo, Golden Paths, Cloud-Native IDP |
+| 🔒 **Seguridad de APIs** | OAuth2, JWT, Zero Trust, Service Mesh (Istio) |
+
+---
+
+## 🛠️ Stack Tecnológico
+
+<div align="center">
+
+### Lenguajes
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
+
+### Frameworks y APIs
+[![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)](https://grpc.io)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org)
 
 ### Cloud y DevOps
-- Experiencia en **AWS**, **Azure Kubernetes Service (AKS)**, **Amazon EKS** y **Google Cloud**.
-- Contenerización con **Docker** y orquestación con **Kubernetes**.
-- Sistemas **Linux** en producción.
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
+
+### Datos y Mensajería
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
+[![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://elastic.co)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+[![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org)
+
+### Observabilidad
+[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)](https://opentelemetry.io)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com)
+
+</div>
 
 ---
 
-## 💼 Experiencia Profesional Destacada
+## 💼 Experiencia Profesional
 
-### **SONDA DE COLOMBIA** - Desarrollador de Software Especializado 4
-**Abril 2023 - Mayo 2025** | *2 años y 1 mes*
-- Desarrollo de **microservicios en Golang** para sistemas críticos, optimizando tiempos de respuesta en un 20%.
-- Diseño e implementación de **consultas avanzadas en Oracle SQL** para reportes complejos.
-- Desarrollo de interfaces con **Angular**, mejorando la experiencia del usuario.
-- Optimización de **procedimientos almacenados en PL/SQL** para grandes volúmenes de datos.
-- **Refactorización aplicando principios SOLID**, reduciendo deuda técnica en un 30%.
+### 📊 KLIO DATA — *Desarrollador Full-Stack Senior*
+**Ago 2025 – Presente** · Actual
 
-### **TRANSCARIBE S.A.** - Consultor de Software  
-**Enero 2023 - Abril 2023** | *4 meses*
-- Automatización de descarga de datos con **Golang**, **go rutinas** y **concurrencia**.
-- Integración con **MongoDB**, **AWS SQS** y desarrollo de **gateway gRPC**.
-- Implementación de **Web Scraping con Selenium** y contenerización con **Docker**.
+- Desarrollo de **Pallet Connect Middle** — capa de middleware que conecta los sistemas del piso de producción con pipelines de datos en tiempo real
+- Construcción de **Explore**, una solución estratégica de **HUD (Head-Up Display)** que empodera a los operadores con métricas de producción en vivo, transformando la toma de decisiones en planta
+- Diseño e implementación de **flujos de datos potenciados con IA** usando backends en Golang integrados con infraestructura cloud
+- Trabajo full-stack: servicios backend, pipelines de datos y dashboards en tiempo real
 
-### **VOZY INC** - Software Engineer Backend
-**Junio 2022 - Diciembre 2022** | *7 meses*
-- Desarrollo del plugin NLP de RAZA utilizando **Golang** e integración con microservicios de Machine Learning.
-- Refactorización de modelos **gRPC**, creando nuevos servicios e integración con microservicios.
-- Mantenimiento de módulos de reportería y analytics construidos en **Laravel**.
-- **100% de cobertura** en pruebas unitarias de endpoints migrados.
-
-### **MERQUEO S.A.S** - Backend Developer
-**Marzo 2021 - Junio 2022** | *1 año y 3 meses*
-- Refactorización y desarrollo en **Laravel** y **Golang**, implementando Clean Code y principios SOLID.
-- Implementación de inyección de dependencias en lambda Golang con **Wire**.
-- Desarrollo de **AWS Lambda** con servicios (S3, SQS, DynamoDB).
-- **100% de cobertura** en pruebas unitarias y componentes desarrollados.
-
-### **ALCALDÍA MAYOR DE CARTAGENA** - Software Developer
-**Abril 2020 - Diciembre 2020** | *8 meses*
-- Desarrollo de aplicación de reserva de playas y app móvil para control de ayudas humanitarias.
-- Diseño de arquitectura y modelado de base de datos.
-- Despliegue de aplicaciones en servidores.
-- **85% de cobertura** en pruebas unitarias.
-
-### **LULOSYS** - Head Software Developer
-**Noviembre 2018 - Diciembre 2019** | *1 año y 1 mes*
-- Liderazgo en procesos de adopción de soluciones informáticas.
-- Desarrollo de **API Rest** e integración con **Asterisk**.
-- Diseño de arquitectura frontend y backend (API Rest, Microservicios).
-- Desarrollo de aplicaciones **Android e iOS** con Flutter.
-- Despliegues en **AWS** y **Google Cloud**.
+**Stack:** `Go` `Integración AI/LLM` `AWS` `Sistemas en Tiempo Real` `Cloud-Native`
 
 ---
 
-## 🌟 Proyectos Destacados
+### 🏢 SONDA DE COLOMBIA — *Especialista en Desarrollo de Software*
+**Abr 2023 – May 2025** · 2 años
 
-### 1. **Sistema de Microservicios Críticos - SONDA**
-- **Descripción**: Desarrollo de microservicios en **Golang** para sistemas críticos con integración Oracle.
-- **Tecnologías**: Golang, Oracle PL/SQL, Angular, Linux, Docker.
-- **Logros**: Optimización del 20% en tiempos de respuesta y reducción del 30% en deuda técnica.
+- Arquitectura y despliegue de **microservicios en Golang** para sistemas gubernamentales críticos, logrando **20% de mejora en tiempos de respuesta**
+- Diseño de consultas avanzadas en **Oracle SQL** y optimización de **procedimientos almacenados en PL/SQL** que manejan millones de registros
+- Liderazgo de **iniciativa de refactorización SOLID** que redujo la deuda técnica en **30%** en código legado
+- Desarrollo de interfaces **Angular** integradas con servicios backend
 
-### 2. **Automatización de consulta de saldos - TRANSCARIBE S.A.**
-- **Descripción**: Herramienta en **Golang** para automatizar descarga de datos con concurrencia.
-- **Tecnologías**: Golang, MongoDB, AWS SQS, gRPC, Selenium, Docker.
-- **Logros**: Automatización completa de procesos manuales.
-
-### 3. **Plugin NLP para Rasa - VOZY**
-- **Descripción**: Desarrollo e integración de plugin NLP con **Golang** y microservicios **gRPC**.
-- **Tecnologías**: Golang, AWS (Lambda, SQS), MongoDB, ElasticSearch.
-- **Logros**: 100% de cobertura en pruebas unitarias.
-
-### 4. **Refactorización Backend - Merqueo**
-- **Descripción**: Implementación de principios SOLID y Clean Code con optimización de microservicios.
-- **Tecnologías**: Golang, PHP (Laravel), AWS (S3, DynamoDB).
-- **Logros**: 100% de cobertura en pruebas unitarias.
+**Stack:** `Go` `Oracle PL/SQL` `Angular` `Docker` `Linux`
 
 ---
 
-## 📜 Certificaciones Destacadas
+### 🚌 TRANSCARIBE S.A. — *Consultor de Software*
+**Ene 2023 – Abr 2023** · 4 meses
 
-- **Oracle PL/SQL** - Udemy
-- **Programación Reactiva con Spring Boot y Spring WebFlux** - Udemy
-- **Curso Práctico de Go: Creación de un Servidor Web** - Platzi
-- **Master gRPC con Golang** - Udemy
-- **Unit Testing for Go Developers** - Udemy
-- **Curso Avanzado de Laravel** - Platzi
-- **Backend Spring Boot** - Platzi
-- **Backend FastAPI** - Platzi
-- **ElasticSearch** - Platzi
+- Construcción de herramienta de automatización de datos en **Golang** con goroutines, eliminando el 100% de procesos manuales
+- Diseño e implementación de **gateway gRPC** conectando sistemas legados con microservicios modernos
+- Integración de colas de mensajes **AWS SQS** para procesamiento asíncrono confiable
+
+**Stack:** `Go` `gRPC` `MongoDB` `AWS SQS` `Docker` `Selenium`
 
 ---
 
-## 🎓 Educación
+### 🎙️ VOZY INC — *Ingeniero de Software Backend*
+**Jun 2022 – Dic 2022** · 7 meses
 
-- **Ingeniería de Sistemas** - Universidad del Sinú Elías Bechara Zainúm (2015)
-- **Tecnólogo en Administración de Redes** - SENA (2010)
-- **Especialización en Seguridad en Redes** - SENA (2013)
+- Desarrollo de **plugin NLP para Rasa** en Golang, integrado con microservicios de ML vía gRPC — experiencia real en integración AI/backend
+- Logro de **100% de cobertura** en pruebas unitarias de todos los endpoints migrados
+- Refactorización de modelos gRPC e implementación de nuevos servicios embebidos en el pipeline de inferencia de IA
+
+**Stack:** `Go` `gRPC` `Laravel` `AWS Lambda` `MongoDB` `ElasticSearch`
+
+---
+
+### 🛒 MERQUEO S.A.S — *Backend Developer*
+**Mar 2021 – Jun 2022** · 1 año 3 meses
+
+- Entrega de **funciones AWS Lambda** (Go) integradas con S3, SQS y DynamoDB para flujos de e-commerce
+- Implementación de **inyección de dependencias con Wire** para arquitectura Go modular y testeable
+- Mantenimiento de **100% de cobertura** en todos los componentes desarrollados
+
+**Stack:** `Go` `PHP/Laravel` `AWS (Lambda, S3, SQS, DynamoDB)` `Docker`
+
+---
+
+### 🏛️ ALCALDÍA MAYOR DE CARTAGENA — *Desarrollador de Software*
+**Abr 2020 – Dic 2020** · 8 meses
+
+- Construcción de sistema de reserva de playas y app móvil para gestión de ayudas humanitarias durante la crisis del COVID-19
+- Diseño completo de arquitectura de base de datos y API backend desde cero con **85% de cobertura** en pruebas
+
+---
+
+### 💡 LULOSYS — *Líder de Desarrollo de Software*
+**Nov 2018 – Dic 2019** · 1 año 1 mes
+
+- Liderazgo del equipo técnico e impulso de la adopción de soluciones tecnológicas modernas en la organización
+- Arquitectura y entrega de **APIs REST** integradas con telefonía **Asterisk VoIP**
+- Desarrollo de aplicaciones móviles multiplataforma con **Flutter** desplegadas en **AWS** y **Google Cloud**
+
+---
+
+## 🚀 Logros Clave
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🏭 Sistema HUD en tiempo real  — Piso de producción, Klio Data  │
+│  📉 20% menos latencia          — Microservicios críticos SONDA  │
+│  🧹 30% deuda técnica eliminada — Refactorización SOLID          │
+│  ✅ 100% cobertura de pruebas   — Plugin NLP VOZY y Merqueo      │
+│  ⚡ 100% automatización         — Pipeline de datos TRANSCARIBE  │
+│  📱 App COVID-19 entregada      — Ayuda humanitaria, Cartagena   │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorcel&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorcel&layout=compact&theme=radical&langs_count=8)
+<div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=victorcel&theme=radical&column=4&margin-w=15&margin-h=15)
+<img src="https://github-readme-stats.vercel.app/api?username=victorcel&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&locale=es" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcel&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&locale=es" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=victorcel&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=es" width="60%"/>
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=victorcel&theme=discord&column=4&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-## 🤝 ¿Te interesa colaborar?
+## 📜 Certificaciones
 
-Estoy siempre abierto a nuevas oportunidades y colaboraciones. Si tienes un proyecto interesante o buscas un backend experimentado para tu equipo, ¡hablemos!
+| Certificación | Plataforma |
+|--------------|------------|
+| Oracle PL/SQL | Udemy |
+| Master gRPC con Golang | Udemy |
+| Unit Testing para Desarrolladores Go | Udemy |
+| Programación Reactiva — Spring Boot y WebFlux | Udemy |
+| ElasticSearch | Platzi |
+| Servidor Web en Go (Práctico) | Platzi |
+| Laravel Avanzado | Platzi |
+| Backend FastAPI | Platzi |
 
-📧 **Correo**: [vbarrera@outlook.com](mailto:vbarrera@outlook.com)  
+---
 
-**Busco trabajo a tiempo completo a distancia** 🌍
+## 🎓 Educación
 
-¡Gracias por visitar mi perfil! 😊
+- 🎓 **Ingeniería de Sistemas** — Universidad del Sinú Elías Bechara Zainúm (2015)
+- 🌐 **Tecnólogo en Administración de Redes** — SENA (2010)
+- 🔐 **Especialización en Seguridad en Redes** — SENA (2013)
+
+---
+
+## 🤝 ¡Hablemos!
+
+<div align="center">
+
+**Estoy buscando activamente oportunidades remotas** donde pueda contribuir a productos de alto impacto.
+Si estás construyendo sistemas distribuidos, plataformas cloud-native o backends potenciados con IA — ¡contáctame!
+
+[![LinkedIn](https://img.shields.io/badge/Conectar%20en%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-elias-barrera-florez/)
+[![Email](https://img.shields.io/badge/Enviar%20un%20Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vbarrera@outlook.com)
+
+📍 Cartagena, Colombia · UTC-5 · Disponible para trabajo remoto en cualquier parte del mundo
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+*"Código limpio, sistemas observables e impacto medible."*
+
+</div>
